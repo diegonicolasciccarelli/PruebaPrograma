@@ -1,0 +1,5 @@
+C:\Users\Diego Ciccarelli\Desktop\Cosas Diego\ProgramaStockCuadrosRuben\negocio\obj\Debug\net5.0\negocio.csproj.AssemblyReference.cache
+C:\Users\Diego Ciccarelli\Desktop\Cosas Diego\ProgramaStockCuadrosRuben\negocio\obj\Debug\net5.0\negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Ciccarelli\Desktop\Cosas Diego\ProgramaStockCuadrosRuben\negocio\obj\Debug\net5.0\negocio.AssemblyInfoInputs.cache
+C:\Users\Diego Ciccarelli\Desktop\Cosas Diego\ProgramaStockCuadrosRuben\negocio\obj\Debug\net5.0\negocio.AssemblyInfo.cs
+C:\Users\Diego Ciccarelli\Desktop\Cosas Diego\ProgramaStockCuadrosRuben\negocio\obj\Debug\net5.0\negocio.csproj.CoreCompileInputs.cache
